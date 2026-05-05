@@ -44,3 +44,4 @@ Examples of AI assistants.
 - [Next.js](https://nextjs.org/docs)
 - [Slate.js](https://docs.slatejs.org/) : Rick editor
 - [Material Icons](https://mui.com/material-ui/material-icons/)
+
